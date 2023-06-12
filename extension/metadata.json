@@ -1,0 +1,10 @@
+{
+  "name": "Window manager HTTP",
+  "description": "Window manager HTTP",
+  "uuid": "window-manager-http@example.com",
+  "shell-version": [
+    "42",
+    "43",
+    "44"
+  ]
+}
